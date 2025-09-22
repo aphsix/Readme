@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
+![Header](4c8bbd30-c3e5-4152-bae3-b8a8ae23513b.png)
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A passionate frontend developer from [Your Country]</h3>

@@ -10,14 +10,6 @@
 
 ---
 
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **React Native / Next.js**
-- 💬 Ask me about **Android, MERN, or Web Development**
-- 📫 How to reach me **yourmail@example.com**
-- ⚡ Fun fact: **I love coding with coffee ☕**
-
----
-
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>

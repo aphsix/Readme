@@ -8,14 +8,4 @@
 <h1 align="center">Hi 👋, I'm Aphisit Danchaodang</h1>
 <h3 align="center">FullStack Web developer </h3>
 
----
 
-### 🌐 Connect with me:
-
-
----
-
-### 🛠️ Languages and Tools:
-
-
----

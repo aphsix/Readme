@@ -12,12 +12,12 @@
 <p align="center">
   <a href="aphisitdanc.work@gamil.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
-    <span style="margin-left: 8px;">ponlawat.k@bu.ac.th</span>
+    <span style="margin-left: 8px;">aphisitdanc.work@gmail.com</span>
   </a>
   <br />
   <a href="" target="_blank">
     <img src="[https://skillicons.dev/icons?i=linkedin](https://www.instagram.com/_aphsx/)" height="30" alt="LinkedIn" />
-    <span style="margin-left: 8px;">linkedin.com/in/p-khamlae</span>
+    <span style="margin-left: 8px;">_aphsx</span>
   </a>
   <br />
 </p>

@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Aphisit+Danchaodang;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-# Hi 👋, I'm Aphisit Danchaodang
-### Full Stack Web Developer
+
+<h1 align="center">Hi 👋, I'm Aphisit Danchaodang</h1>
+<h3 align="center">FullStack Web developer </h3>
 
 <div align="center">
   <a href="mailto:aphisitdanc.work@gmail.com">

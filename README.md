@@ -7,5 +7,19 @@
 
 <h1 align="center">Hi 👋, I'm Aphisit Danchaodang</h1>
 <h3 align="center">FullStack Web developer </h3>
+## ✉️ Contact Me
+
+<p align="center">
+  <a href="mailto:ponlawat.k@bu.ac.th" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
+    <span style="margin-left: 8px;">ponlawat.k@bu.ac.th</span>
+  </a>
+  <br />
+  <a href="[https://linkedin.com/in/p-khamlae](https://portfolio-aphsx.vercel.app/)" target="_blank">
+    <img src="[https://skillicons.dev/icons?i=linkedin](https://www.instagram.com/_aphsx/)" height="30" alt="LinkedIn" />
+    <span style="margin-left: 8px;">linkedin.com/in/p-khamlae</span>
+  </a>
+  <br />
+</p>
 
 

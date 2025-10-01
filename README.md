@@ -10,7 +10,8 @@
 
 
 <p align="center">
-  ✉️ Contact Me
+  
+  <a>✉️ Contact Me</a>
   <a href="aphisitdanc.work@gamil.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
     <span style="margin-left: 8px;">aphisitdanc.work@gmail.com</span>
